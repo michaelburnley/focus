@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c29a1341138c73408087282de9b02e6, type: 3}
+  m_Name: RightBackPunch
+  m_EditorClassIdentifier: 
+  active: 0
+  name: 
+  type: 0
+  omnidirectional: 0
+  mustFace: 0
+  moves: 
+  animationTime: 0
+  animationController: {fileID: 0}
+  force: 0
+  damage: 0
+  direction: {x: 0, y: 0, z: 0}
+  playerForce: 0
+  playerDirection: {x: 0, y: 0, z: 0}
+  includes: []
+  excludes: []

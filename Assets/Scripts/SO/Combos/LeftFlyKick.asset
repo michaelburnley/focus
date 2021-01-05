@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c29a1341138c73408087282de9b02e6, type: 3}
+  m_Name: LeftFlyKick
+  m_EditorClassIdentifier: 
+  active: 0
+  name: LeftFlyKick
+  type: 0
+  omnidirectional: 1
+  mustFace: 0
+  moves: 050000000500000005000000050000000600000006000000
+  animationTime: 0.45
+  animationController: {fileID: 9100000, guid: 10511c96af56b014c80cf2d7b97fa441, type: 2}
+  force: 0
+  damage: 0
+  direction: {x: 0, y: 0, z: 0}
+  playerForce: 5
+  playerDirection: {x: 1, y: 0, z: 0}
+  includes: []
+  excludes: []
